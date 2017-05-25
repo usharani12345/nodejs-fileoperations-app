@@ -1,0 +1,8 @@
+var  data =[{
+	"name":"usha",
+	"email":"usha@gmail.com"
+},
+{
+	"name":"alekya",
+	"email":"alekya@gmail.com"
+}]
